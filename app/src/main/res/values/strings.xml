@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Economik</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="material">Технико-экономическое обоснование (ТЭО) - это анализ, расчет, оценка
+
+экономической целесообразности осуществления предлагаемого проекта, в данном
+
+случае - проекта по разработке автоматизированной информационной системы. ТЭО
+
+основано на сопоставительной оценке затрат и результатов, установлении
+
+эффективности использования, срока окупаемости вложений.
+
+Технико-экономическое обоснование является необходимым для каждого
+
+инвестора исследованием, в ходе подготовки которого проводится ряд работ по
+
+изучению и анализу всех составляющих инвестиционного проекта и разработке
+
+сроков возврата вложенных в бизнес средств.</string>
+
+    <string name="metod1">Расчет КТУ</string>
+    <string name="metod2">Расчет план-графика работ</string>
+    <string name="metod3">Расчет затрат на разработку проекта и внедрение аналога</string>
+    <string name="metod4">Расчет эксплуатационных затрат</string>
+    <string name="metod5">Расчет показателей экономической эффективности</string>
+
+
+    <string name="Bj">Bj</string>
+    <string name="Xj">Xj</string>
+    <string name="X">X</string>
+    <string name="BjXj">Bj*Xj</string>
+    <string name="BjX">Bj*X</string>
+
+    <string name="O">0</string>
+
+    <string name="NewDate">Добавить значение</string>
+    <string name="Datas">Мануал</string>
+    <string name="exeption">Ошибка</string>
+    <string name="NewD">Посчитать</string>
+
+    <string-array name="pokazateli">
+        <item>Удобство работы</item>
+        <item>Новизна</item>
+        <item>Соответствие профилю деятельности заказчика</item>
+        <item>Ресурсная эффективность</item>
+        <item>Надежность</item>
+        <item>Скорость доступа к данным</item>
+        <item>Гибкость настройки</item>
+        <item>Обучаемость персонала</item>
+        <item>Соотношение</item>
+    </string-array>
+    <string name="Bj0">Показатели качества</string>
+    <string name="Bj1">Удобство работы (пользовательский интерфейс)</string>
+    <string name="Bj2">Новизна (соответствие современным требованиям)</string>
+    <string name="Bj3">Соответствие профилю деятельности заказчика</string>
+    <string name="Bj4">Ресурсная эффективность</string>
+    <string name="Bj5">Надежность (защита данных)</string>
+    <string name="Bj6">Скорость доступа к данным</string>
+    <string name="Bj7">Гибкость настройки</string>
+    <string name="Bj8">Обучаемость персонала</string>
+    <string name="Bj9">Соотношение</string>
+    <string name="Jety1">Jety1</string>
+    <string name="Jety2">Jety2</string>
+    <string name="Ak">Ak</string>
+    <string name="title_activity_main2">Мануал</string>
+    <string name="title_activity_ekonomika">Ekonomika</string>
+
+    <string name="title_section1">Балльно-индексный метод</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_section4">Section 4</string>
+    <string name="title_section5">Section 5</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action1">JЭТУ - комплексный показатель качества продукта по группе показателей;</string>
+    <string name="action2">п - число рассматриваемых показателей;</string>
+    <string name="action3">Вj - коэффициент весомости j-го показателя в долях единицы, назначаемый в соответствии с потребностями организации-заказчика программного продукта;</string>
+    <string name="action4">Xj - экспертная оценка j-го показателя качества по выбранной шкале оценивания.</string>
+
+
+</resources>
